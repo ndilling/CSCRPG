@@ -1,0 +1,25 @@
+SCREEN_WIDTH = 800
+SCREEN_HEIGHT = 600
+FPS = 60
+
+# Colors
+WHITE = (255, 255, 255)
+BLACK = (0, 0, 0)
+GRAY = (50, 50, 50)
+RED = (200, 0, 0)
+GREEN = (0, 200, 0)
+BLUE = (0, 0, 200)
+YELLOW = (255, 255, 0)
+
+# XP System
+LEVEL_CAP = 5
+XP_PER_LEVEL = 100
+
+# Fonts
+FONT_LARGE = 36
+FONT_MEDIUM = 28
+FONT_SMALL = 20
+
+# Log area position
+LOG_AREA_X = 420
+LOG_AREA_Y = 350
