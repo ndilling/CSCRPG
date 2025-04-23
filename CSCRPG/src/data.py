@@ -26,10 +26,10 @@ RANGER_ABILITIES = [
 ]
 
 ENCOUNTERS = [
-    {"name": "Goblin", "hp": 50, "moves": [{"name": "Stab", "min": 4, "max": 8, "cooldown": 0}]},
-    {"name": "Skeleton", "hp": 65, "moves": [{"name": "Bone Slash", "min": 6, "max": 10, "cooldown": 1}]},
-    {"name": "Orc", "hp": 85, "moves": [{"name": "Club Smash", "min": 8, "max": 14, "cooldown": 2}]},
-    {"name": "Dark Knight", "hp": 100, "moves": [{"name": "Dark Slash", "min": 10, "max": 18, "cooldown": 2}]}
+    {"name": "Goblin", "hp": 90, "moves": [{"name": "Stab", "min": 13, "max": 18, "cooldown": 0}]},
+    {"name": "Skeleton", "hp": 100, "moves": [{"name": "Bone Slash", "min": 14, "max": 20, "cooldown": 1}]},
+    {"name": "Orc", "hp": 130, "moves": [{"name": "Club Smash", "min": 16, "max": 23, "cooldown": 2}]},
+    {"name": "Dark Knight", "hp": 250, "moves": [{"name": "Dark Slash", "min": 17, "max": 23, "cooldown": 2}]}
 ]
 
 BOSS_ENCOUNTER = {
