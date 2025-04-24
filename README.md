@@ -1,7 +1,7 @@
 # CSCRPG
 CSC 102 Project
 
-Main.py code/program is the main program you will be running. Every other file is loaded or brought into this main.py file to be used accordingly. Such as the character creation modules and the screens.
+main.py code/program is the main program you will be running. Every other file is loaded or brought into this main.py file to be used accordingly. Such as the character creation modules and the screens.
 
 We suggest running this game on a personal computer as opposed to a school computer.
 
