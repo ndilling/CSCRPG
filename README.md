@@ -5,9 +5,7 @@ main.py code/program is the main program you will be running. Every other file i
 
 We suggest running this game on a personal computer as opposed to a school computer.
 
-Make sure pygame, json, and OS are installed on your personal computer / imported.
-
-Matplotlib needs to be installed on the computer as well.
+Make sure pygame, json, matplotlib, and OS are installed on your personal computer / imported. Make sure to install and run your file from the Terminal.
 
 Hit "n" for a new game / to start game. Choose any of the 5 options that are presented.
 
